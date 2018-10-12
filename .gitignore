@@ -2,3 +2,8 @@ node_modules
 .DS_Store
 .idea
 npm-debug.log
+dist
+.rpt2_cache
+*.d.ts
+/*.js
+/*.js.map
